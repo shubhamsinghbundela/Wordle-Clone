@@ -20,36 +20,30 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 ## More Projects
 
-
-
-
-
-![Todo]()
-
-
+![portfoli]()
 
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">Veg Checker</a>
+<a target="_blank" href="https://vegeterianchecker.netlify.app/">Veg Checker</a>
         <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">
+      <a target="_blank" href="https://github.com/shubhamsigdar1/veg-checker">
             <img src="https://user-images.githubusercontent.com/107163260/208595821-6b76380f-611c-4c58-8a78-8fc1fe6ca21a.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
+<a target="_blank" href="https://tictactoe100devs.netlify.app/">Tic-Tac-Toe Game</a>
       <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
+        <a target="_blank" href="https://github.com/shubhamsigdar1/Tic-Tac-Toe-Game-100Devs">
           <img src="https://user-images.githubusercontent.com/107163260/208596247-6879b587-2a17-4b34-93d7-c52098dad579.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+<a target="_blank" href="https://shubhamsigdar.netlify.app/">Portfolio</a>
         <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://github.com/shubhamsigdar/Portfolio">
+          <img src="https://user-images.githubusercontent.com/107163260/208596712-d9ab9b66-5036-483c-b67c-b391275fe382.gif" width="100%" alt="Portfolio"/>
         </a>
     </td>
   </tr>
