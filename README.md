@@ -6,4 +6,4 @@
 
 # How It's Made:
 
-## Tech Used: HTML,CSS,JavaScript
+## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
