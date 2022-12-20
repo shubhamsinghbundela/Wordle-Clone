@@ -6,6 +6,11 @@
 
 # How It's Made:
 
+## Blog: 
+
+  <a href="https://shubhamsigdar.hashnode.dev/how-to-accept-user-input-on-game-board-of-wordle-using-javascript" target="_blank">Link1</a>
+  <a href="https://shubhamsigdar.hashnode.dev/how-i-create-the-game-board65-of-wordle-using-javascript" target="_blank">Link2</a>
+
 ## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 
 In this project, I Learn How to create the game board Dynamically by writing a JavaScript function and also How to Accept User Input in the right place or when the user key is pressed was Enter or Backspace, then go to the next line or delete one letter from the current row on the wordle board using javascript.
@@ -20,7 +25,6 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 ## More Projects
 
-![portfoli]()
 
 <table bordercolor="#66b2b2">
   
