@@ -8,8 +8,8 @@
 
 ## Blog: 
 
-  &#x2022;<a href="https://shubhamsigdar.hashnode.dev/how-to-accept-user-input-on-game-board-of-wordle-using-javascript" target="_blank">Link1</a><br>
-  &#x2022;<a href="https://shubhamsigdar.hashnode.dev/how-i-create-the-game-board65-of-wordle-using-javascript" target="_blank">Link2</a>
+  &#x2022; <a href="https://shubhamsigdar.hashnode.dev/how-to-accept-user-input-on-game-board-of-wordle-using-javascript" target="_blank">Link1</a><br>
+  &#x2022; <a href="https://shubhamsigdar.hashnode.dev/how-i-create-the-game-board65-of-wordle-using-javascript" target="_blank">Link2</a>
 
 ## Tech Used: ![JAVASCRIPT BADGE](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 
